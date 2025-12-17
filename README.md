@@ -267,38 +267,6 @@ model = keras.Sequential([
 
 ---
 
-## 📁 Project Structure
-
-```
-customer-polarity-classification/
-│
-├── Customer_Polarity_Classification.ipynb   # Main Jupyter notebook
-├── README.md                                 # This file
-├── requirements.txt                          # Python dependencies
-├── LICENSE                                   # MIT License
-│
-├── data/
-│   └── onlinedeliverydata.xls               # Dataset
-│
-├── models/                                   # Saved model files (optional)
-│   ├── enhanced_knn_model.pkl
-│   ├── svm_model.pkl
-│   └── ann_model.h5
-│
-├── visualizations/                           # Generated plots
-│   ├── correlation_heatmap.png
-│   ├── nested_pie_charts.png
-│   ├── customer_distribution_map.html
-│   └── model_comparison.png
-│
-└── docs/                                     # Additional documentation
-    ├── METHODOLOGY.md
-    ├── RESULTS.md
-    └── API_REFERENCE.md
-```
-
----
-
 ## 🏆 Results
 
 ### Model Performance Summary
