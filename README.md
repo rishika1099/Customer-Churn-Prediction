@@ -21,10 +21,6 @@ A comprehensive machine learning project analyzing customer purchase decisions i
 - [Visualizations](#-visualizations)
 - [Technical Details](#-technical-details)
 - [Requirements](#-requirements)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Authors](#-authors)
-- [Acknowledgments](#-acknowledgments)
 
 ---
 
